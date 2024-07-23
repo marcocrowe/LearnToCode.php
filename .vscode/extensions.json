@@ -1,0 +1,19 @@
+{
+	"recommendations": [
+        "gruntfuggly.todo-tree",
+		"wmaurer.change-case",
+		"maptz.camelcasenavigation",
+        "sonarsource.sonarlint-vscode",
+        "davidanson.vscode-markdownlint",
+        "bmewburn.vscode-intelephense-client",
+        "xdebug.php-pack",
+        "streetsidesoftware.code-spell-checker",
+        "shd101wyy.markdown-preview-enhanced",
+        "yzhang.markdown-all-in-one",
+        "eamodio.gitlens",
+        "bierner.markdown-mermaid",
+        "wraith13.open-in-github-desktop",
+        "adpyke.vscode-sql-formatter",
+        "vscode-icons-team.vscode-icons"
+	]
+}
