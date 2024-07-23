@@ -29,3 +29,5 @@ php -S localhost:8000
 - [Numbers](number.php)
 
 ---
+
+Copyright © 2024 Mark Crowe. All rights reserved.
