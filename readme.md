@@ -31,8 +31,8 @@ php -S localhost:8000
 
 ## Examples
 
-- [Hello World](examples/hello-world.php)
-- [Numbers](number.php)
+- [Hello World](examples/hello-world.php "Hello World Example")
+- [Numbers](number.php "Numbers Example")
 
 ---
 
