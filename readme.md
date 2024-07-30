@@ -3,11 +3,17 @@
 
 ## Requirements
 
-To install PHP read the [PHP](docs/php-install.md):
+To install PHP read the [PHP](docs/php-install.md "PHP Install Guide") guide.:
 
-- [PHP](https://www.php.net/downloads)
-- [Composer](https://getcomposer.org/download/)
-- [Xdebug](https://xdebug.org/download)
+- [PHP](https://www.php.net/downloads "PHP Download")
+- [Composer](https://getcomposer.org/download/ "Composer Download")
+- [Xdebug](https://xdebug.org/download "Xdebug Download")
+
+## Instructions
+
+- [PHP](docs/php-install.md "PHP Install Guide")
+- [Enable PHP Debug](docs/php-debug.md "PHP Debug Guide")
+- [Xampp Install Guide](docs/xampp-install.md "Xampp Install Guide")
 
 ## Run
 
